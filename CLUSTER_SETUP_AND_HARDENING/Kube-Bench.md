@@ -1,7 +1,8 @@
 Kube-Bench
 ==========
 
-Recommendations for Kubernetes
+Recommendations for Kubernetes:
+
 https://github.com/aquasecurity/kube-bench
 
 ```shel
