@@ -1,6 +1,6 @@
 Admission Controllers
 =====================
 
-Check enabled ACÇ
+Check enabled AC
 kube-apiserver -h | grep enable-admission-plugins
 
